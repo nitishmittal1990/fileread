@@ -1,5 +1,5 @@
-index.html
 .DS_Store
+index.html
 FeeCollection.1.docx
 FeeCollection.docx
 studentidlist.txt
